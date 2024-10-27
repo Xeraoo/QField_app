@@ -1,4 +1,4 @@
-# Digital Image Processing in QField - BDOT10k Data Collection for Park Jordana, Kraków
+# QField - BDOT10k Data Collection for Park Jordana, Kraków
 
 This repository documents the process of creating a mobile application for collecting BDOT10k geospatial data in Park Jordana, Kraków, using the **QField** application. The project was carried out to meet the requirements outlined in national regulations, focusing on precise geospatial data collection for infrastructure elements within the park.
 
