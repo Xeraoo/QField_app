@@ -28,7 +28,8 @@ The project was based on national regulations specifying guidelines for BDOT10k 
 
 Given the extensive range of BDOT10k data, we focused on key thematic layers for our application. After a brainstorming session, we identified the essential infrastructure elements in Park Jordana. Below is an example screenshot of the selected thematic layers:
 
-![Thematic Layers Screenshot](path/to/screenshot.png)
+![image](https://github.com/user-attachments/assets/2f362307-11f2-4fb4-b957-2f1ae7a10565)
+
 
 ## 3. Development of Dictionaries
 
